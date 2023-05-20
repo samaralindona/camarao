@@ -49,6 +49,9 @@ body {
 .estudante{
     padding: 24px 0;
 }
+.estudante-titulo{
+    padding: 1em 450px 10px 450px;
+    }
 .estudante-imagem{
     width: 120px;
 }
