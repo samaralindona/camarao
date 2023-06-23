@@ -67,3 +67,6 @@ body {
     padding: 16px 0;
 }
 
+@media(max-woth: 800px)
+{.escola {color:#113B79}
+}
