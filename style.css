@@ -51,6 +51,7 @@ body {
     background-color:#f7dbf4;
 }
 .estudante-titulo{
+    text-align: center;
     padding: 1em 800px 10px 150px;
     }
 .estudante-imagem{
